@@ -13,7 +13,7 @@ OptiEdit is a user-friendly web-based image editor that allows users to enhance 
 
 ## Demo
 
-You can try out the PixelProse Image Editor by visiting the [live demo](https://your-demo-url.com).
+You can try out the PixelProse Image Editor by visiting the [live demo](https://optiedit.netlify.app/).
 
 ## Installation
 
@@ -21,7 +21,7 @@ To run the PixelProse Image Editor locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pixelprose.git
+   git clone https://github.com/your-username/OptiEdit.git
 Navigate to the project directory:
 
 bash
