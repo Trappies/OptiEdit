@@ -2,6 +2,8 @@
 
 OptiEdit is a user-friendly web-based image editor that allows users to enhance and transform their images effortlessly. It provides a simple and intuitive interface with a variety of editing features and filters.
 
+![image](https://github.com/Trappies/OptiEdit/assets/116559027/0cc556d3-789f-4b2c-9f43-e3a12e23b30d)
+
 ## Key Features
 
 - **Filters:** Apply various filters such as brightness, saturation, inversion, and grayscale to achieve the desired visual effects.
