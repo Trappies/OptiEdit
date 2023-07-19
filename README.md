@@ -21,7 +21,7 @@ To run the PixelProse Image Editor locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/OptiEdit.git
+   git clone (https://github.com/Trappies/OptiEdit)
 Navigate to the project directory:
 
 bash
