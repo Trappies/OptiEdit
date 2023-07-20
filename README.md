@@ -29,11 +29,11 @@ Copy code
 cd OptiEdit
 Open index.html in your preferred web browser.
 
-Contributing
+##Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request. Make sure to follow the code of conduct in all your interactions.
 
-License
+##License
 The OptiEdit Image Editor is open source and available under the MIT License.
 
-Support
+##Support
 If you have any questions or need assistance, please contact me at joshua33garner33@gmail.com.
